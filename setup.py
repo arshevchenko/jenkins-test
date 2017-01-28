@@ -14,5 +14,5 @@ setup(
 
     license="MIT",
 
-    keywords="test jenkins easy project"
+    keywords="test jenkins easy"
 )
