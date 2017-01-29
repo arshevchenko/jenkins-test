@@ -1,4 +1,4 @@
 DESCRIPTION
 ===========
-That project was made for testing jenkins task.
+That project was made for testing jenkins task
 
