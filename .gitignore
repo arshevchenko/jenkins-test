@@ -1,6 +1,0 @@
-*.pyc
-bin
-include
-lib
-pip-selfcheck.json
-jenkinstest.egg-info
