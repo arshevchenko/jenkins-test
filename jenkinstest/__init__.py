@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-__all__ = ["jenkinstest"]
+from core import *
