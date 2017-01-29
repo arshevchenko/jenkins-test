@@ -5,13 +5,13 @@ from setuptools import setup, find_packages
 
 here = path.abspath(path.dirname(__file__))
 
-with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
+with open(path.join(here, 'README.rst')) as f:
     long_description = f.read()
 
 setup(
-    name="jenkinstest",
+    name="gdtesttask",
     version="1.0.0",
-    packages=['jenkinstest'],
+    packages=['gdtesttask'],
     description="Simple python project for jenkins task",
     long_description=long_description,
     url="https://github.com/shev2dev/jenkins-test",

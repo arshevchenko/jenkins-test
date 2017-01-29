@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import unittest
-from jenkinstest import *
+from gdtesttask import *
 
 class TestJenkinsFunc(unittest.TestCase):
     def test_work(self):
