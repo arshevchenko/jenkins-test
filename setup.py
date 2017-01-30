@@ -10,7 +10,7 @@ with open(path.join(here, 'README.rst')) as f:
 
 setup(
     name="gdtesttask",
-    version="1.0.4",
+    version="1.0.2",
     packages=['gdtesttask'],
     description="Simple python project for jenkins task",
     long_description=long_description,
